@@ -1,0 +1,215 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.salsa-regular {
+  font-family: "Salsa", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Body Styling */
+body {
+    background-image: url('img/loginbgm.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Blur Effect for Background */
+body::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: inherit;
+    filter: blur(8px);
+    z-index: -1;
+}
+
+/* Login Container Styled as a Mobile Device */
+.login-container {
+    padding: 15px;
+    padding-top:1px;
+    width: 100%;
+    max-width: 360px;
+    height: 500px;
+    border-radius: 20px;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 2);
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+/* Food Icon Styling */
+.food-icon {
+    width: 100px; /* Adjust the size as needed */
+    height: 100px;
+    position: absolute;
+    top: -10%; /* Adjust the position to be relative to the container */
+    left: 50%; /* Center horizontally */
+    transform: translateX(-50%); /* Offset to truly center */
+    z-index: 2;
+    border-radius: 50px;
+    border: 2px solid #ff6b6b;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 2);
+}
+
+/* Overlay Effect to Highlight Text Over the Image */
+.login-container::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 30px;
+    z-index: -1;
+}
+
+/* Heading Styling */
+h2 {
+    color: #A1C398;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.logo-fork {
+    color: #ff6b6b;
+    margin-left: 5px;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+/* Login Form Styling */
+.login-form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+/* Input Group */
+.input-group {
+    position: relative;
+}
+
+.input-group i {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #ff6b6b;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 12px 12px 12px 40px;
+    border: 2px solid #A1C398;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: rgba(255, 255, 255, 0.9);
+    transition: border-color 0.3s, box-shadow 0.3s, border-width 0.3s;
+}
+
+.input-group input:focus {
+    outline: none;
+    border-color: #ff6b6b;
+    box-shadow: 0 0 5px rgba(76, 175, 80, 0.5);
+}
+
+.input-group input:hover {
+    border-width: 4px;
+}
+
+/* Button Styling */
+.login-btn {
+    background-color: #ff6b6b;
+    color: #FFFBE5;
+    border: none;
+    padding: 12px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.login-btn:hover {
+    background-color:#A1C398;
+}
+
+/* Sign Up Link */
+.signup-link {
+    margin-top: 20px;
+    color: #ff6b6b;
+    font-size: 18px;
+}
+
+.signup-link a {
+    color:#FFFBE5;
+    text-decoration: none;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.signup-link a:hover {
+    text-decoration: underline;
+    color:#A1C398;
+}
+.forgot-password-link {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.forgot-password-link a {
+    color:#FFFBE5;
+    text-decoration: none;
+}
+
+.forgot-password-link a:hover {
+    text-decoration: underline;
+     color: #A1C398;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .login-container {
+        padding: 20px;
+        width: 90%;
+        height: auto;
+    }
+
+    .input-group input {
+        padding: 10px 10px 10px 35px;
+        font-size: 14px;
+    }
+
+    .login-btn {
+        padding: 10px;
+        font-size: 14px;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+    .food-icon {
+    	top: 160px;
+		width: 70px; /* Adjust the size as needed */
+    	height: 70px;
+    }
+}

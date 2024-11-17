@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 1200px;
+     font-family: "Smokum", serif;
+}
+h1.mb-4 {
+    color: #d38585;
+}
+
+.table th {
+	color:#743e3e !important;
+	 font-size:1.3rem;
+    border-top: none;
+    border-bottom: 2px solid #dee2e6;
+}
+h5.mb-0 {
+    color: darkslategrey;
+}
+
+.table td {
+	color: #11618c !important;
+    vertical-align: middle;
+}
