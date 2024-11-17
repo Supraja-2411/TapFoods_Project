@@ -51,5 +51,5 @@ For any queries or suggestions, reach out to me at:
 📧 <a>suprajapalla2019@gmail.com</a>
 
 <h1>🌟 Acknowledgments</h1>
-<li>Thanks to <a>TapAcademy</a> for the guidance.</li>
+<li>Thanks to <a href="#" >TapAcademy</a>for the guidance.</li>
 <li>Inspired by leading food delivery platforms.</li>
