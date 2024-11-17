@@ -11,10 +11,10 @@
 
 <h3>Tech Stack 🛠️</h3>
 <ul>
-  <li><h4>Frontend:</h4> <span>HTML, CSS, JSP, Bootstrap</span></li>
-  <li><h4>Backend:</h4> Java Servlets, Jdbc</li>
-  <li><h4>Database:</h4> MySQL</li>
-  <li><h4>Version Control:</h4> Git and GitHub</li>
+  <li>Frontend: HTML, CSS, JSP, Bootstrap</li>
+  <li>Backend: Java Servlets, Jdbc</li>
+  <li>Database: MySQL</li>
+  <li>Version Control: Git and GitHub</li>
 </ul>
 <h1>Screenshots 📸</h1>
 <h3>1. Home Page 🏠</h3>
@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/509ad012-0b07-4198-97cc-dad5134f5349
 <p>User can place the order, slect payment mode , edit address</p>
 https://github.com/user-attachments/assets/b1ac24a5-7b8d-4fe8-9444-9b9a435b3ca5
 
-<h3>Order History 🗂️</h3>
+<h3>5. Order History 🗂️</h3>
 <p>Track your past orders with detailed summaries.</p>
 
 <h1>Future Enhancements 📝</h1>
