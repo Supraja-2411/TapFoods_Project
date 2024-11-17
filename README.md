@@ -9,7 +9,18 @@
   <li>Backend-powered cart management and order history.</li>
 </ul>
 
-
-
-<h1>1. Home Page 🏠</h1> <br>
+<h3>Tech Stack 🛠️</h3>
+<ul>
+  <li><h4>Frontend:</h4> HTML, CSS, JSP, Bootstrap</li>
+  <li><h4>Backend:</h4> Java Servlets, Jdbc</li>
+  <li><h4>Database:</h4> MySQL</li>
+  <li><h4>Version Control:</h4> Git and GitHub</li>
+</ul>
+<h1>Screenshots 📸</h1>
+<h2>1. Home Page 🏠</h2> <br>
+<p>A clean, user-friendly homepage showcasing top restaurants.</p>
 https://github.com/user-attachments/assets/fe6e7429-7b8d-4f7c-8df8-02d7c2ffd12a
+
+<h2>Menu Page 📋</h2>
+<p>Browse the restaurant's menu with the option to add items to your cart.</p>
+![Screenshot 2024-11-17 130839](https://github.com/user-attachments/assets/d60dd1af-690d-44cb-9726-68e1575e095b)
