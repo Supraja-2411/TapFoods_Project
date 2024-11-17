@@ -27,7 +27,6 @@ https://github.com/user-attachments/assets/e37dd38c-23f8-45f6-962e-6bcef60f57a2
 
 <h2>3.  Cart Page 🛒</h2>
 <p>View and manage items in your cart before checkout.</p>
-<img src="![Screenshot 2024-11-17 132202](https://github.com/user-attachments/assets/a55a576b-ffe1-4fae-b2e2-75e198ca0003)">
 https://github.com/user-attachments/assets/509ad012-0b07-4198-97cc-dad5134f5349
 
 <h2>4. Check Out Page 🗂️</h2>
