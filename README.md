@@ -1,1 +1,1 @@
-Tap Foods is a full-stack web development project that simulates the functionality of a food delivery platform. It allows users to browse restaurants, view menus, add items to their cart, and place orders. The project is a clone of popular food delivery apps, built using Java technologies.
+**Tap Foods 🍔🍕**
