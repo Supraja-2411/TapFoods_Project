@@ -22,6 +22,7 @@
 https://github.com/user-attachments/assets/fe6e7429-7b8d-4f7c-8df8-02d7c2ffd12a
 
 <h2>Menu Page 📋</h2>
-<p>Bro![Screenshot 2024-11-17 130839](https://github.com/user-attachments/assets/610b2da6-bbc6-4247-9fa8-afea71d0d9fe)
+<p>Bro
 wse the restaurant's menu with the option to add items to your cart.</p>
 ![Screenshot 2024-11-17 130839](https://github.com/user-attachments/assets/e37dd38c-23f8-45f6-962e-6bcef60f57a2)
+![Screenshot 2024-11-17 130839](https://github.com/user-attachments/assets/610b2da6-bbc6-4247-9fa8-afea71d0d9fe)
