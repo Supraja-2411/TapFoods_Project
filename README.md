@@ -42,8 +42,8 @@ https://github.com/user-attachments/assets/b1ac24a5-7b8d-4fe8-9444-9b9a435b3ca5
 
 <h1>Contributions 🤝</h1>
 <h4>Contributions, issues, and feature requests are welcome!</h4>
-1. Fork the repository.
-2. Create a feature branch.
+1. Fork the repository.<br>
+2. Create a feature branch.<br>
 3. Submit a pull request with your changes.
 
 <h1>Contact 📧</h1>
