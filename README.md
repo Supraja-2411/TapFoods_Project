@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/e37dd38c-23f8-45f6-962e-6bcef60f57a2
 https://github.com/user-attachments/assets/509ad012-0b07-4198-97cc-dad5134f5349
 
 <h3>4. Check Out Page 🗂️</h3>
-<p>User can place the order, slect payment mode , edit address</p>
+<p>User can place the order, select payment mode, edit address</p>
 https://github.com/user-attachments/assets/b1ac24a5-7b8d-4fe8-9444-9b9a435b3ca5
 
 <h3>5. Order History 🗂️</h3>
