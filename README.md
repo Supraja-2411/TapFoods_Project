@@ -37,8 +37,8 @@ https://github.com/user-attachments/assets/b1ac24a5-7b8d-4fe8-9444-9b9a435b3ca5
 <p>Track your past orders with detailed summaries.</p>
 
 <h1>Future Enhancements 📝</h1>
-<li>Add payment gateway integration 💳.</li>
-<li>Introduce user reviews and ratings ⭐.</li>
+<li>Add payment gateway integration 💳</li>
+<li>Introduce user reviews and ratings ⭐</li>
 
 <h1>Contributions 🤝</h1>
 <h4>Contributions, issues, and feature requests are welcome!</h4>
