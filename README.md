@@ -36,11 +36,20 @@ https://github.com/user-attachments/assets/b1ac24a5-7b8d-4fe8-9444-9b9a435b3ca5
 <h2>Order History 🗂️</h2>
 <p>Track your past orders with detailed summaries.</p>
 
-<h1>Contributing 🤝</h1>
-<h4>Contributions are welcome! If you'd like to improve this project:</h4>
+<h1>Future Enhancements 📝</h1>
+<li>Add payment gateway integration 💳.</li>
+<li>Introduce user reviews and ratings ⭐.</li>
+
+<h1>Contributions 🤝</h1>
+<h4>Contributions, issues, and feature requests are welcome!</h4>
 1. Fork the repository.
 2. Create a feature branch.
 3. Submit a pull request with your changes.
 
 <h1>Contact 📧</h1>
-<p>If you have any questions or suggestions, feel free to reach out at </p>> suprajapalla2019@gmail.com
+For any queries or suggestions, reach out to me at:
+📧 <a>suprajapalla2019@gmail.com</a>
+
+<h1>🌟 Acknowledgments</h1>
+<li>Thanks to TapAcademy for the guidance.</li>
+<li>Inspired by leading food delivery platforms.</li>
