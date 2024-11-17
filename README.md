@@ -17,7 +17,7 @@
   <li><h4>Version Control:</h4> Git and GitHub</li>
 </ul>
 <h1>Screenshots 📸</h1>
-<h2>1. Home Page 🏠</h2> <br>
+<h2>1. Home Page 🏠</h2>
 <p>A clean, user-friendly homepage showcasing top restaurants.</p>
 https://github.com/user-attachments/assets/fe6e7429-7b8d-4f7c-8df8-02d7c2ffd12a
 
