@@ -17,23 +17,23 @@
   <li><h4>Version Control:</h4> Git and GitHub</li>
 </ul>
 <h1>Screenshots 📸</h1>
-<h2>1. Home Page 🏠</h2>
+<h3>1. Home Page 🏠</h3>
 <p>A clean, user-friendly homepage showcasing top restaurants.</p>
 https://github.com/user-attachments/assets/fe6e7429-7b8d-4f7c-8df8-02d7c2ffd12a
 
-<h2>2. Menu Page 📋</h2>
+<h3>2. Menu Page 📋</h3>
 <p>Browse the restaurant's menu with the option to add items to your cart.</p>
 https://github.com/user-attachments/assets/e37dd38c-23f8-45f6-962e-6bcef60f57a2
 
-<h2>3.  Cart Page 🛒</h2>
+<h3>3.  Cart Page 🛒</h3>
 <p>View and manage items in your cart before checkout.</p>
 https://github.com/user-attachments/assets/509ad012-0b07-4198-97cc-dad5134f5349
 
-<h2>4. Check Out Page 🗂️</h2>
+<h3>4. Check Out Page 🗂️</h3>
 <p>User can place the order, slect payment mode , edit address</p>
 https://github.com/user-attachments/assets/b1ac24a5-7b8d-4fe8-9444-9b9a435b3ca5
 
-<h2>Order History 🗂️</h2>
+<h3>Order History 🗂️</h3>
 <p>Track your past orders with detailed summaries.</p>
 
 <h1>Future Enhancements 📝</h1>
