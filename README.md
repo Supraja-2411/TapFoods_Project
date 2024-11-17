@@ -29,3 +29,9 @@ https://github.com/user-attachments/assets/fe6e7429-7b8d-4f7c-8df8-02d7c2ffd12a
 <p>View and manage items in your cart before checkout.</p>
 ![Screenshot 2024-11-17 132202](https://github.com/user-attachments/assets/509ad012-0b07-4198-97cc-dad5134f5349)
 
+<h2>4. Check Out Page 🗂️</h2>
+<p>User can place the order, slect payment mode , edit address</p>
+![image](https://github.com/user-attachments/assets/b1ac24a5-7b8d-4fe8-9444-9b9a435b3ca5)
+
+<h2>Order History 🗂️</h2>
+<p>Track your past orders with detailed summaries.</p>
