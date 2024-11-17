@@ -23,15 +23,24 @@ https://github.com/user-attachments/assets/fe6e7429-7b8d-4f7c-8df8-02d7c2ffd12a
 
 <h2>2. Menu Page 📋</h2>
 <p>Browse the restaurant's menu with the option to add items to your cart.</p>
-![Screenshot 2024-11-17 130839](https://github.com/user-attachments/assets/e37dd38c-23f8-45f6-962e-6bcef60f57a2)
+https://github.com/user-attachments/assets/e37dd38c-23f8-45f6-962e-6bcef60f57a2
 
 <h2>3.  Cart Page 🛒</h2>
 <p>View and manage items in your cart before checkout.</p>
-![Screenshot 2024-11-17 132202](https://github.com/user-attachments/assets/509ad012-0b07-4198-97cc-dad5134f5349)
+https://github.com/user-attachments/assets/509ad012-0b07-4198-97cc-dad5134f5349
 
 <h2>4. Check Out Page 🗂️</h2>
 <p>User can place the order, slect payment mode , edit address</p>
-![image](https://github.com/user-attachments/assets/b1ac24a5-7b8d-4fe8-9444-9b9a435b3ca5)
+https://github.com/user-attachments/assets/b1ac24a5-7b8d-4fe8-9444-9b9a435b3ca5
 
 <h2>Order History 🗂️</h2>
 <p>Track your past orders with detailed summaries.</p>
+
+<h1>Contributing 🤝</h1>
+<h4>Contributions are welcome! If you'd like to improve this project:</h4>
+1. Fork the repository.
+2. Create a feature branch.
+3. Submit a pull request with your changes.
+
+<h1>Contact 📧</h1>
+<p>If you have any questions or suggestions, feel free to reach out at suprajapalla2019@gmail.com</p>
